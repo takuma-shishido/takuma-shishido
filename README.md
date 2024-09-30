@@ -4,8 +4,13 @@ I am a [**17y.o**](https://github.com/takuma-shishido/takuma-shishido/commit/a9f
 
 ---
 
-#### :computer: I'm currently learning:
+#### 🖥 Skills
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Python](https://img.shields.io/badge/Python%20(I%20don't%20like%20it%20much%20%3AP)-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+
+
+#### ⌨ I'm currently learning:
 ![Zig](https://img.shields.io/badge/zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white)
 ![Reverse Engineering](https://img.shields.io/badge/reverse%20engineering-%2300ADD8.svg?style=for-the-badge&color=white)
 
