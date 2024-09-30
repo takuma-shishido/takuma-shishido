@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a [**17y.o**](https://github.com/takuma-shishido/takuma-shishido/commit/a9f6609b68ac2904511c664493ad1860b30d1ab7) high school student interested in security and reverse engineering
+I am a [**17y.o**](https://github.com/takuma-shishido/takuma-shishido/commit/a9f6609b68ac2904511c664493ad1860b30d1ab7) Japanese high school student interested in security and reverse engineering
 
 ---
 
