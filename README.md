@@ -1,18 +1,20 @@
 ## Hi there 👋
 
-I was born today!
+I am a [**17y.o**](https://github.com/takuma-shishido/takuma-shishido/commit/a9f6609b68ac2904511c664493ad1860b30d1ab7) high school student interested in security and reverse engineering
 
-<!--
-**takuma-shishido/takuma-shishido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+#### :computer: I'm currently learning:
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Zig](https://img.shields.io/badge/zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white)
+![Reverse Engineering](https://img.shields.io/badge/reverse%20engineering-%2300ADD8.svg?style=for-the-badge&color=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠 Tools that I'm using:
+![Mac](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)
+![GIT](https://img.shields.io/badge/GIT-%230175C2.svg?style=for-the-badge&color=white&logo=git)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![IDA Pro](https://img.shields.io/badge/IDA%20Pro-%230175C2.svg?style=for-the-badge&color=cyan)
+
+#### 🏆 Github Stats
+<img src="https://github-profile-trophy.vercel.app/?username=takuma-shishido">
