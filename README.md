@@ -11,8 +11,10 @@ I am a [**17y.o**](https://github.com/takuma-shishido/takuma-shishido/commit/a9f
 
 
 #### ⌨ I'm currently learning:
-![Zig](https://img.shields.io/badge/zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white)
-![Reverse Engineering](https://img.shields.io/badge/reverse%20engineering-%2300ADD8.svg?style=for-the-badge&color=white)
+**Lang:** ![Zig](https://img.shields.io/badge/zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white)
+![Mojo](https://img.shields.io/badge/Mojo%20(Better%20than%20Python%2C%20Type%20definition%20are%20fun!%20%F0%9F%94%A5)-F7A41D?style=for-the-badge&color=FF9800)
+
+**Skill:** ![Reverse Engineering](https://img.shields.io/badge/reverse%20engineering-%2300ADD8.svg?style=for-the-badge&color=white)
 
 #### 🛠 Tools that I'm using:
 ![Mac](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
