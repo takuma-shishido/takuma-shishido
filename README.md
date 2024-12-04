@@ -11,7 +11,7 @@ I am a [**17y.o**](https://github.com/takuma-shishido/takuma-shishido/commit/a9f
 
 
 #### ⌨ I'm currently learning:
-**Lang:** ![Zig](https://img.shields.io/badge/zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white)
+**Lang:** ![Zig](https://img.shields.io/badge/zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)
 
 **Skill:** ![Reverse Engineering](https://img.shields.io/badge/reverse%20engineering-%2300ADD8.svg?style=for-the-badge&color=white)
 
