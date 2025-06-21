@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a [**17y.o**](https://github.com/takuma-shishido/takuma-shishido/commit/af14931bcfd97be6a92bb5149e6ce4b9c73aa6d5) Japanese high school student and I am currently interested in low-level programming.
+I am a [**18y.o**](https://github.com/takuma-shishido/takuma-shishido/commit/af14931bcfd97be6a92bb5149e6ce4b9c73aa6d5) Japanese high school student and I am currently interested in low-level programming.
 
 ---
 
