@@ -13,4 +13,4 @@ I am a [**18y.o**](https://github.com/takuma-shishido/takuma-shishido/commit/af1
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 #### 🏆 Github Stats
-<img src="https://github-profile-trophy.vercel.app/?username=takuma-shishido">
+<img src="https://github-profile-trophy-fork-two.vercel.app/?username=takuma-shishido">
