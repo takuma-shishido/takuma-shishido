@@ -6,7 +6,7 @@
 <a href="https://github.com/takuma-shishido/takuma-shishido/">
   <img src="https://komarev.com/ghpvc/?username=takuma-shishido" alt="takuma-shishido" />
 </a>
-<a href="http://twitter.com/yutkat">
+<a href="http://twitter.com/takumamot">
   <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/takumamot?style=flat">
 </a>
 <a href="https://github.com/takuma-shishido">
