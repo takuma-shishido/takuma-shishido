@@ -1,12 +1,7 @@
 <div align="center">
   
 <!-- Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:14532D,50:4D7C0F,100:A3E635&height=180&section=header&text=Takuma%20Shishido&fontSize=36&fontColor=F7FEE7&fontAlignY=36" />
-
-<!-- Typing animation -->
-<!-- <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=58A6FF&center=true&vCenter=true&width=460&lines=Full+Stack+Developer;Open+Source+Contributor;Always+Learning+Something+New" alt="Typing SVG" /> -->
-<!-- </a> -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:14532D,50:4D7C0F,100:A3E635&height=200&section=header&text=Hi,%20I'm%20Takuma%20Shishido%20🪼&fontSize=34&fontColor=F7FEE7&fontAlignY=32&desc=Marmot%20lover&descSize=18&descAlignY=52&descColor=ECFCCB" />
 <br />
 
 <!-- About -->
