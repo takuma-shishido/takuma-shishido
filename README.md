@@ -2,7 +2,16 @@
   
 <!-- Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:14532D,50:4D7C0F,100:A3E635&height=200&section=header&text=Hi,%20I'm%20Takuma%20Shishido%20🪼&fontSize=34&fontColor=F7FEE7&fontAlignY=32&desc=Marmot%20lover&descSize=18&descAlignY=52&descColor=ECFCCB" />
-<br />
+
+<a href="https://github.com/takuma-shishido/takuma-shishido/">
+  <img src="https://komarev.com/ghpvc/?username=takuma-shishido" alt="takuma-shishido" />
+</a>
+<a href="http://twitter.com/yutkat">
+  <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/takumamot?style=flat">
+</a>
+<a href="https://github.com/takuma-shishido">
+  <img height="20" src="https://img.shields.io/github/followers/takuma-shishido?label=follow&logo=github&style=flat" />
+</a>
 
 <!-- About -->
 ## About Me
