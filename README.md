@@ -73,7 +73,7 @@ This tag remains until I personally consider the project's quality, structure, a
       <img src="https://streak-stats.demolab.com?user=takuma-shishido&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j&mode=weekly&card_height=150" alt="GitHub Streak" />
     </td>
     <td>
-      <!-- <img src="https://github-readme-stats.reimpl.com/api/top-langs/?username=takuma-shishido&layout=compact&theme=radical&hide_border=true" /> -->
+      <img src="https://github-readme-stats.reimpl.com/api/top-langs/?username=takuma-shishido&layout=compact&theme=radical&hide_border=true" />
     </td>
   </tr>
 </table>
