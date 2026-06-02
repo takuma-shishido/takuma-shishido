@@ -37,6 +37,13 @@ It feels like we were already meant to be best friends!
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+### Infrastructure
+
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+
 ### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -66,7 +73,7 @@ This tag remains until I personally consider the project's quality, structure, a
       <img src="https://streak-stats.demolab.com?user=takuma-shishido&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j&mode=weekly&card_height=150" alt="GitHub Streak" />
     </td>
     <td>
-      <img src="https://github-readme-stats.reimpl.com/api/top-langs/?username=takuma-shishido&layout=compact&theme=radical&hide_border=true" />
+      <!-- <img src="https://github-readme-stats.reimpl.com/api/top-langs/?username=takuma-shishido&layout=compact&theme=radical&hide_border=true" /> -->
     </td>
   </tr>
 </table>
