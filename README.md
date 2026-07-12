@@ -15,7 +15,7 @@
 
 <!-- About -->
 ## About Me
-🎓 [**18y.o**](https://github.com/takuma-shishido/takuma-shishido/commit/5fa6a96f5865f86b639cb62dcc2c8c1ec90c67ad) University Student in Japan  
+🎓 [**19y.o**](https://github.com/takuma-shishido/takuma-shishido/commit/5fa6a96f5865f86b639cb62dcc2c8c1ec90c67ad) University Student in Japan  
 🛠 Building weird infrastructure & experimental developer tools  
 🌱 Self-hosting enthusiast  
 🐣 Exploring niche languages and curious ideas  
